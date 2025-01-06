@@ -3,7 +3,7 @@
 # %% auto 0
 __all__ = ['AggressiveReporter', 'check']
 
-# %% ../nbs/check.ipynb 1
+# %% ../nbs/check.ipynb 2
 import pyflakes.api, nbdev.config
 
 class AggressiveReporter:
